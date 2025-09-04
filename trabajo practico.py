@@ -1,4 +1,60 @@
 #Trabajo practico 3
+# actividad 1
+# valorDecimal = float(input("Por favor, ingresa un número decimal: "))
+
+# entero = int(valorDecimal)
+
+# booleano = bool(valorDecimal)
+
+# cadenaDeTexto = str(valorDecimal)
+
+# print("Resultados de las conversiones")
+# print(f"Valor original (float): {valorDecimal}")
+# print(f"Convertido a entero (int): {entero}")
+# print(f"Convertido a booleano (bool): {booleano}")
+# print(f"Convertido a cadena de texto (str): {cadenaDeTexto}")
+
+# print("Verificación de tipos de datos")
+# print(f"Tipo de 'valorDecimal': {type(valorDecimal)}")
+# print(f"Tipo de 'entero': {type(entero)}")
+# print(f"Tipo de 'booleano': {type(booleano)}")
+# print(f"Tipo de 'cadenaDeTexto': {type(cadenaDeTexto)}")
+
+# actividad 2
+
+# # Asignamos un número que sería un desbordamiento en otros lenguajes
+# numero_grande = 123456789123456789123456789123456789
+
+# # El tipo de dato sigue siendo 'int'
+# print(f"El valor de la variable es: {numero_grande}")
+# print(f"El tipo de la variable es: {type(numero_grande)}")
+
+# # Python puede realizar operaciones con este número sin error
+# resultado = numero_grande * 2
+# print(f"\nEl resultado de la operación es: {resultado}")
+
+# ejercicio 3
+
+
+# numero_str = input("Por favor, ingresa un número de 3 dígitos (100-999): ")
+
+# numero = int(numero_str)
+
+# if 100 <= numero <= 999:
+#     centenas = numero // 100
+
+#     decenas = (numero % 100) // 10
+
+#     unidades = numero % 10
+
+#     suma = centenas + decenas + unidades
+
+#     print(f"La suma de los dígitos de {numero} es: {suma}")
+
+# else:
+#     print("El número ingresado no es de 3 dígitos.")
+
+
 # Ejercicio 4:
 
 # print("Ejercicio 4: ")

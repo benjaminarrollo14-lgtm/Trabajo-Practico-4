@@ -164,11 +164,6 @@ ejercicios 7,8 y 9( echo con el 6 del lauti
 # Todas las variables en Python son referencias a objetos. Sin embargo, los tipos inmutables (como int, float, str, tuple) se comportan de manera similar a los tipos valor,
 # mientras que los tipos mutables (como list, dict, set) se comportan como tipos referencia.
 
-#actividad 14
-# En Python, no existe una distinción estricta entre variables de tipo valor y tipo referencia como en Java.
-# Todas las variables en Python son referencias a objetos. Sin embargo, los tipos inmutables (como int, float, str, tuple) se comportan de manera similar a los tipos valor,
-# mientras que los tipos mutables (como list, dict, set) se comportan como tipos referencia.
-
 # 15- Indique que sucede si realizo la siguiente declaración de variable:
 # x = None print(x)
 # Explique y ejemplifique el uso de None
